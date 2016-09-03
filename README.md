@@ -1,0 +1,2 @@
+# tienda-de-recuerdos
+Proyecto académico para la asignatura de Arquitectura de Software 2016-3 dictada en la Universidad Nacional de Colombia dirigida por el Ing. Jeisson Andrés Vergara, que se basará en una tienda de recuerdos hipotética, con la tecnologia de MySQL GlassFish MongoDB BootFaces gernerando no solo un boceto del la implementación fuente si no los documentos que describen la arquitectura del sistema  
